@@ -1,0 +1,14 @@
+C:\Users\Wills\source\repos\circleArea\circleArea\bin\Debug\net8.0\circleArea.exe
+C:\Users\Wills\source\repos\circleArea\circleArea\bin\Debug\net8.0\circleArea.deps.json
+C:\Users\Wills\source\repos\circleArea\circleArea\bin\Debug\net8.0\circleArea.runtimeconfig.json
+C:\Users\Wills\source\repos\circleArea\circleArea\bin\Debug\net8.0\circleArea.dll
+C:\Users\Wills\source\repos\circleArea\circleArea\bin\Debug\net8.0\circleArea.pdb
+C:\Users\Wills\source\repos\circleArea\circleArea\obj\Debug\net8.0\circleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wills\source\repos\circleArea\circleArea\obj\Debug\net8.0\circleArea.AssemblyInfoInputs.cache
+C:\Users\Wills\source\repos\circleArea\circleArea\obj\Debug\net8.0\circleArea.AssemblyInfo.vb
+C:\Users\Wills\source\repos\circleArea\circleArea\obj\Debug\net8.0\circleArea.vbproj.CoreCompileInputs.cache
+C:\Users\Wills\source\repos\circleArea\circleArea\obj\Debug\net8.0\circleArea.dll
+C:\Users\Wills\source\repos\circleArea\circleArea\obj\Debug\net8.0\refint\circleArea.dll
+C:\Users\Wills\source\repos\circleArea\circleArea\obj\Debug\net8.0\circleArea.pdb
+C:\Users\Wills\source\repos\circleArea\circleArea\obj\Debug\net8.0\circleArea.genruntimeconfig.cache
+C:\Users\Wills\source\repos\circleArea\circleArea\obj\Debug\net8.0\ref\circleArea.dll
